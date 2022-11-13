@@ -32,6 +32,6 @@ My name is Ali, and I am know 4 languages very well.
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=awolverp&theme=dark&show_icons=true" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=awolverp&show_icons=true&theme=dark" width="300"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awolverp&layout=compact&theme=dark" width="300" />
 </p>
