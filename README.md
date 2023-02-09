@@ -39,7 +39,8 @@ My name is Ali, and I am know 4 languages very well.
 
 ## Eductional Repos/Gists
 ### Pyrogram
-- [**How to use file_id? - Uploader**](https://github.com/awolverp/uploader-bot)
+- [**How to use file_id? - Uploader**](https://github.com/awolverp/uploader-bot) | source
+- [**Forced Join Trick**](https://gist.github.com/awolverp/5de08ef2ca3d8645ee490592c974c726) | gists
 
-### Gists
-- [**Python Cheat Sheet**](https://gist.github.com/awolverp/0e56d18a926c37aaced6f9156127a18f)
+### Python
+- [**Python Cheat Sheet**](https://gist.github.com/awolverp/0e56d18a926c37aaced6f9156127a18f) | gists
