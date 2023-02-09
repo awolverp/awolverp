@@ -37,6 +37,9 @@ My name is Ali, and I am know 4 languages very well.
 
 --------
 
-## Eductional Repos
+## Eductional Repos/Gists
 ### Pyrogram
 - [**How to use file_id? - Uploader**](https://github.com/awolverp/uploader-bot)
+
+### Gists
+- [**Python Cheat Sheet**](https://gist.github.com/awolverp/0e56d18a926c37aaced6f9156127a18f)
