@@ -39,4 +39,4 @@ My name is Ali, and I am know 4 languages very well.
 
 ## Eductional Repos
 ### Pyrogram
-- [**Uploader**](https://github.com/awolverp/uploader-bot)
+- [**How to use file_id? - Uploader**](https://github.com/awolverp/uploader-bot)
