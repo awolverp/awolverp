@@ -1,15 +1,13 @@
 <p>
-  <h1 align="center"><b>Hi</b></h1>
+  <h1 align="center"><b>WHO AM I</b></h1>
 </p>
 <p align="center">
-My name is Ali, and I am know 4 languages very well.
+My name is Ali, and I'm a <b>programmer</b>/<b>bug hunter</b>.
 </p>
 
 <br/>
 
-<p>
-  <h3 align="center"><b>Languages & Tools I Know</b></h3>
-</p>
+<h3 align="center"><b>Languages & Tools I Know</b></h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>&nbsp;
@@ -20,19 +18,12 @@ My name is Ali, and I am know 4 languages very well.
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Pyrogram-%23FF6701.svg?style=for-the-badge&logo=fireship&logoColor=white"/>
 </p>
-<p align="center">
-  <b>and a little</b><br/><br/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF"/>
-</p>
+
 <br/>
 
-
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=awolverp&show_icons=true&theme=dark" width="300"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awolverp&layout=compact&theme=dark" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=awolverp&show_icons=true&theme=dark" width="300" height="125"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awolverp&layout=compact&theme=dark" width="300" height="125"/>
 </p>
 
 --------
