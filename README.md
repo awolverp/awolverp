@@ -16,7 +16,10 @@ My name is Ali, and I'm a <b>programmer</b>/<b>bug hunter</b>.
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Pyrogram-%23FF6701.svg?style=for-the-badge&logo=fireship&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 <br/>
@@ -28,10 +31,6 @@ My name is Ali, and I'm a <b>programmer</b>/<b>bug hunter</b>.
 
 --------
 
-## Eductional Repos/Gists
-### Pyrogram
-- [**How to use file_id? - Uploader**](https://github.com/awolverp/uploader-bot) | source
-- [**Forced Join Trick**](https://gist.github.com/awolverp/5de08ef2ca3d8645ee490592c974c726) | gists
-
-### Python
-- [**Python Cheat Sheet**](https://gist.github.com/awolverp/0e56d18a926c37aaced6f9156127a18f) | gists
+### Gists
+- [**Pyrogram Force Join Trick**](https://gist.github.com/awolverp/5de08ef2ca3d8645ee490592c974c726)
+- [**Python Cheat Sheet**](https://gist.github.com/awolverp/0e56d18a926c37aaced6f9156127a18f)
