@@ -2,7 +2,7 @@
   <h1 align="center"><b>WHO AM I</b></h1>
 </p>
 <p align="center">
-My name is Ali, and I'm a <b>programmer</b>/<b>bug hunter</b>.
+My name is Ali, and I'm a <b>5-year Programmer</b>/<b>1-year Bug Hunter</b>.
 </p>
 
 <br/>
