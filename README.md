@@ -1,35 +1,24 @@
+### WHO AM I
+I'm Ali, and a **5-year programmer** & and also **a 1-year bug hunter**.
+
+**About me**
+- 📐 I love learning AI, math and alghoritms.
+- ❤️ I love learning and writing low-level programming languages.
+- 🎓 It's very easy to motivate me to learn new things...
+
+**My skills**
+
+![My Skills](https://skillicons.dev/icons?i=python,go,cpp,c,git,sqlite,mongodb,mysql,redis,linux,django,html,css)
+
+**My stats**
+
 <p>
-  <h1 align="center"><b>WHO AM I</b></h1>
-</p>
-<p align="center">
-My name is Ali, and I'm a <b>5-year Programmer</b>/<b>1-year Bug Hunter</b>.
-</p>
-
-<br/>
-
-<h3 align="center"><b>Languages & Tools I Know</b></h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>&nbsp;
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
-
-<br/>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=awolverp&show_icons=true&theme=dark" width="300" height="125"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awolverp&layout=compact&theme=dark" width="300" height="125"/>
+<img src="https://github-readme-stats.vercel.app/api?username=awolverp&show_icons=true&theme=ambient_gradient" width="300" height="125"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awolverp&layout=compact&theme=slateorange" width="300" height="125"/>
 </p>
 
 --------
 
-### Gists
+**Gists**
 - [**Pyrogram Force Join Trick**](https://gist.github.com/awolverp/5de08ef2ca3d8645ee490592c974c726)
 - [**Python Cheat Sheet**](https://gist.github.com/awolverp/0e56d18a926c37aaced6f9156127a18f)
