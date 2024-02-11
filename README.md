@@ -12,8 +12,8 @@ I'm Ali, and a **5-year programmer** & and also **a 1-year bug hunter**.
 
 **My skills**
 
-![My Skills](https://skillicons.dev/icons?i=python,go,cpp,c,git,linux)
-![My Skills](https://skillicons.dev/icons?i=rust,sqlite,mysql,mongodb,redis,html,css)
+![My Skills](https://skillicons.dev/icons?i=python,go,rust,cpp,c,git)
+![My Skills](https://skillicons.dev/icons?i=linux,sqlite,mysql,mongodb,redis,html,css)
 ![My Skills](https://skillicons.dev/icons?i=django)
 
 **My stats**
