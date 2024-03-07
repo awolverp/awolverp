@@ -12,7 +12,7 @@ I'm Ali, and a **5-year programmer** & also **a 1-year bug hunter**.
 
 **My skills**
 
-![My Skills](https://skillicons.dev/icons?i=python,go,rust,cpp,c,git)
+![My Skills](https://skillicons.dev/icons?i=python,rust,go,git,cpp,c)
 ![My Skills](https://skillicons.dev/icons?i=linux,sqlite,mysql,mongodb,redis,html,css)
 ![My Skills](https://skillicons.dev/icons?i=django)
 
