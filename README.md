@@ -12,7 +12,7 @@ I'm Ali, and a **5-year programmer** & also **a 1-year bug hunter**.
 
 -------
 
-**My skills**
+### MY SKILLS
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -31,7 +31,18 @@ I'm Ali, and a **5-year programmer** & also **a 1-year bug hunter**.
 ![FastAPI](https://img.shields.io/badge/FASTAPI-4EA94B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**My stats**
+### GOING TO LEARN
+This is my roadmap ...
+
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwaind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+### MY STATS
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=awolverp&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&title_color=507bb3&text_color=fcfcfc&icon_color=fcfcfc&bg_color=22272e" width="49%" height="180px"/>
