@@ -31,7 +31,7 @@ I'm Ali, and a **5-year programmer** & also **a 1-year bug hunter**.
 ![FastAPI](https://img.shields.io/badge/FASTAPI-4EA94B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### GOING TO LEARN
+### GONNA LEARN
 This is my roadmap ...
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
