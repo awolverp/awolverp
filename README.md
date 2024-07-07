@@ -37,9 +37,3 @@ I'm Ali, and a **5-year programmer** & also **a 1-year bug hunter**.
 <img src="https://github-readme-stats.vercel.app/api?username=awolverp&number_format=long&show=prs_merged_percentage&show_icons=true&line_height=30&title_color=507bb3&text_color=fcfcfc&icon_color=fcfcfc&bg_color=22272e" width="49%" height="180px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awolverp&layout=compact&theme=slateorange" width="49%" height="180px"/>
 </p>
-
---------
-
-**Gists**
-- [**Pyrogram Force Join Trick**](https://gist.github.com/awolverp/5de08ef2ca3d8645ee490592c974c726)
-- [**Python Cheat Sheet**](https://gist.github.com/awolverp/0e56d18a926c37aaced6f9156127a18f)
