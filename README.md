@@ -1,4 +1,8 @@
-![github-header-image(1)](https://github.com/awolverp/awolverp/assets/118073811/1277fecf-6aa3-45a9-beb1-fc930444d97f)
+<p align=center>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=F7DE5D&center=true&vCenter=true&repeat=false&width=435&lines=Hey+Man%2C+I+am+Ali"/>
+</p>
+
+![](https://visitcount.itsvg.in/api?id=awolverp&label=Profile%20Views&color=9&icon=8&pretty=true)
 
 ### WHO AM I
 I'm Ali, and a **5-year programmer** & also **a 1-year bug hunter**.
