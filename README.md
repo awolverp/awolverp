@@ -1,7 +1,3 @@
-<p align=center>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=F7DE5D&center=true&vCenter=true&repeat=false&width=435&lines=Welcome"/>
-</p>
-
 ### WHO AM I
 I'm Ali, and a **5-year programmer** & also **a 1-year bug hunter**.
 
