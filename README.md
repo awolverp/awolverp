@@ -1,5 +1,5 @@
 ### WHO AM I
-I'm Diako, and a **5-year programmer** & also **a 1-year bug hunter**.
+I'm Ali, and a **5-year programmer** & also **a 1-year bug hunter**.
 
 **About me**
 - 📐 I love learning AI, math and alghoritms...
