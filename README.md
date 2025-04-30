@@ -2,7 +2,7 @@
 
 **5-Year Programmer | 1-Year Bug Hunter**
 
-I thrive on **speed, efficiency, and secure systems**. When I'm not diving into algorithms or hacking things (ethically!), I’m probably learning a new language—both programming *and* human!
+I thrive on **speed, efficiency, and secure systems**. When I'm not diving into algorithms or hacking things (ethically!), I’m probably learning a new language - both programming *and* human!
 
 ---  
 
