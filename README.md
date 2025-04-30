@@ -1,12 +1,13 @@
-# 👋 Hey, I'm Ali! 
-
+## 👋 Hey, I'm Ali! 
 **5-Year Programmer | 1-Year Bug Hunter**
-
-I thrive on **speed, efficiency, and secure systems**. When I'm not diving into algorithms or hacking things (ethically!), I’m probably learning a new language - both programming *and* human!
 
 <p align=center>
 <em>Everything can be optimized; old traditions must be broken; speed, quality, and security can coexist...</em>
 </p>
+
+----
+
+I thrive on **speed, efficiency, and secure systems**. When I'm not diving into algorithms or hacking things (ethically!), I’m probably learning a new language - both programming and human!
 
 ### 🔥 Passions  
 - 🤖 **AI & Algorithms**: Math is my playground.  
