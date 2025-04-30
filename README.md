@@ -50,20 +50,20 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E&color=F24E1E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)
 
+---
+
 ### 📊 GitHub Stats  
 
 <p>
   <a href="https://stardev.io/developers/awolverp"><img alt="Check out awolverp's profile on stardev.io" src="https://stardev.io/developers/awolverp/badge/languages/country.svg"/></a>
 </p>
 
-----
-
-🌍 **Let’s Connect**
+### 🌍 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/ali-pooralijan-awolverp)
 
 ----
 
-🎯 **Visitor Counter**
+### 🎯 Visitor Counter
 
 ![Visitor Count](https://profile-counter.glitch.me/awolverp/count.svg)
