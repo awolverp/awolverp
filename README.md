@@ -13,7 +13,14 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 - ⚡ **Need for Speed**: Optimized code = happy users.  
 - 🎓 **Forever Learning**: Easily motivated by new tech challenges.  
 
----  
+----
+
+### 🔥 **Current Focus**  
+🔥 **Front-End Era Begins!**  
+- 🌐 Currently mastering **React.js** → **Next.js** (Front-End, be ready, I'm coming...)  
+- 🤝 **Expanding my social connections** - Let's collaborate/build something awesome!  
+
+-----
 
 ### 🛠 Tech Stack  
 
