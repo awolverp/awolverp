@@ -4,7 +4,9 @@
 
 I thrive on **speed, efficiency, and secure systems**. When I'm not diving into algorithms or hacking things (ethically!), I’m probably learning a new language - both programming *and* human!
 
----  
+<p align=center>
+<em>Everything can be optimized; old traditions must be broken; speed, quality, and security can coexist...</em>
+</p>
 
 ### 🔥 Passions  
 - 🤖 **AI & Algorithms**: Math is my playground.  
@@ -13,14 +15,10 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 - ⚡ **Need for Speed**: Optimized code = happy users.  
 - 🎓 **Forever Learning**: Easily motivated by new tech challenges.  
 
-----
-
 ### 🔥 **Current Focus**  
 🔥 **Front-End Era Begins!**  
 - 🌐 Currently mastering **React.js** → **Next.js** (Front-End, be ready, I'm coming...)  
 - 🤝 **Expanding my social connections** - Let's collaborate/build something awesome!  
-
------
 
 ### 🛠 Tech Stack  
 
@@ -51,20 +49,18 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E&color=F24E1E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)
 
----  
-
 ### 📊 GitHub Stats  
 
 <p>
   <a href="https://stardev.io/developers/awolverp"><img alt="Check out awolverp's profile on stardev.io" src="https://stardev.io/developers/awolverp/badge/languages/country.svg"/></a>
 </p>
 
----  
+----
 
-### 🌍 Let’s Connect  
+🌍 **Let’s Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/ali-pooralijan-awolverp)
 
----
+----
 
 🎯 **Visitor Counter**
 ![Visitor Count](https://profile-counter.glitch.me/awolverp/count.svg)
