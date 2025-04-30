@@ -8,7 +8,7 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 
 ### 🔥 Passions  
 - 🤖 **AI & Algorithms**: Math is my playground.  
-- ❤️ **Low-Level Languages**: Rust, C++, Go—bring it on!  
+- ❤️ **Low-Level Languages**: Rust, C++, Go - bring it on!  
 - 🛡️ **Security-First Mindset**: Building robust systems.  
 - ⚡ **Need for Speed**: Optimized code = happy users.  
 - 🎓 **Forever Learning**: Easily motivated by new tech challenges.  
