@@ -43,6 +43,7 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000&color=000000)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC&color=38B2AC)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ChakraUI](https://img.shields.io/badge/Chakra_UI-1BB2A9?style=for-the-badge&logo=chakra-ui&logoColor=FFFFFF)
 
 #### Tools & Design
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624&color=FCC624)
