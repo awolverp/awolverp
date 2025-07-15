@@ -18,7 +18,7 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 
 ### 🔥 **Current Focus**  
 🔥 **Front-End Era Begins!**  
-- 🌐 Currently mastering **React.js** (Front-End, be ready, I'm coming...)  
+- 🌐 Currently mastering **VueJS** 
 - 🤝 **Expanding my social connections** - Let's collaborate/build something awesome!  
 
 ### 🛠 Tech Stack  
