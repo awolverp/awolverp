@@ -17,9 +17,8 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 - 🎓 **Forever Learning**: Easily motivated by new tech challenges.  
 
 ### 🔥 **Current Focus**  
-🔥 **Front-End Era Begins!**  
-- 🌐 Currently mastering **NuxtJS** 
-- 🤝 **Expanding my social connections** - Let's collaborate/build something awesome!  
+- 🌐 On **NuxtJS**
+- 🤪 And **English**
 
 ### 🛠 Tech Stack  
 
