@@ -62,7 +62,3 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 <p>
   <a href="https://stardev.io/developers/awolverp"><img alt="Check out awolverp's profile on stardev.io" src="https://stardev.io/developers/awolverp/badge/languages/country.svg"/></a>
 </p>
-
-### 🌍 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5)](https://www.linkedin.com/in/ali-pooralijan-awolverp)
