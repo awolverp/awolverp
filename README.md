@@ -17,7 +17,7 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 - 🎓 **Forever Learning**: Easily motivated by new tech challenges.  
 
 ### 🔥 **Current Focus**  
-- 🌐 On **NuxtJS**
+- 🌐 On **Portfolio Website**
 - 🤪 And **English**
 
 ### 🛠 Tech Stack  
@@ -54,6 +54,7 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E&color=F24E1E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF)
+![Nuxt](https://img.shields.io/badge/NuxtJS-00DC82?style=for-the-badge&logo=nuxt&logoColor=FFFFFF)
 
 ---
 
