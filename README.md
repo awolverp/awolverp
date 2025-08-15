@@ -46,6 +46,7 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 ![ChakraUI](https://img.shields.io/badge/Chakra_UI-1BB2A9?style=for-the-badge&logo=chakra-ui&logoColor=FFFFFF)
 ![ShadCN](https://img.shields.io/badge/Shadcn%2fui-000000?style=for-the-badge&logo=shadcn%2fui&logoColor=FFFFFF)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/NuxtJS-00DC82?style=for-the-badge&logo=nuxt&logoColor=FFFFFF)
 
 #### Tools & Design
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624&color=FCC624)
@@ -54,7 +55,6 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E&color=F24E1E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF)
-![Nuxt](https://img.shields.io/badge/NuxtJS-00DC82?style=for-the-badge&logo=nuxt&logoColor=FFFFFF)
 
 ---
 
