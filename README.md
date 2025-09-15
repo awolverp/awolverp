@@ -17,7 +17,7 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 - 🎓 **Forever Learning**: Easily motivated by new tech challenges.  
 
 ### 🔥 **Current Focus**  
-- 🌐 On **Portfolio Website**
+- 🌐 On **Working**
 - 🤪 And **English**
 
 ### 🛠 Tech Stack  
