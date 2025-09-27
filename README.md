@@ -1,5 +1,5 @@
 ## 👋 Hey, I'm Ali! 
-**5-Year Programmer | 1-Year Bug Hunter**
+**6-Year Programmer**
 
 <p align=center>
 <em>Everything can be optimized; old traditions must be broken; speed, quality, and security can coexist...</em>
@@ -60,6 +60,4 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 
 ### 📊 GitHub Stats  
 
-<p>
-  <a href="https://stardev.io/developers/awolverp"><img alt="Check out awolverp's profile on stardev.io" src="https://stardev.io/developers/awolverp/badge/languages/country.svg"/></a>
-</p>
+![aWolverP's GitHub stats](https://github-readme-stats.vercel.app/api?username=awolverp&theme=dark)
