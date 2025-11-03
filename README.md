@@ -16,10 +16,6 @@ I thrive on **speed, efficiency, and secure systems**. When I'm not diving into 
 - ⚡ **Need for Speed**: Optimized code = happy users.  
 - 🎓 **Forever Learning**: Easily motivated by new tech challenges.  
 
-### 🔥 **Current Focus**  
-- 🌐 On **Working**
-- 🤪 And **English**
-
 ### 🛠 Tech Stack  
 
 #### Languages  
