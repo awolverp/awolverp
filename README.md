@@ -6,8 +6,6 @@ Full-Stack Developer specializing in high-performance web applications with mode
 
 I build complete web solutions from database to deployment, with a focus on scalable architecture and clean code. Whether it's a lightning-fast API in Rust or a modern SaaS application with React, I deliver production-ready systems.
 
-- 🔭 Currently working on creating a portfolio website.
-
 ## 🛠️ Tech Stack
 
 ### Languages
