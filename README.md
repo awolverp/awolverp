@@ -1,44 +1,67 @@
-# Hi there, I'm Ali 👋
+<p align="center">
+  <img alt="A.Wolver.P Header Banner" src="https://shieldcn.dev/header/grid.svg?title=A.Wolver.P&amp;subtitle=Fullname%3A+Ali+Pooralijan&amp;logo=false&amp;size=wide&amp;mode=dark&amp;theme=blue&amp;font=geist" />
+</p>
 
-Full-Stack Developer specializing in high-performance web applications with modern frontend frameworks and blazingly fast backend systems.
+## 👋 About me
+My name is Ali,
 
-## 🚀 About Me
+I build backend systems in Python, Rust, and Go, and I get bored fast, which is probably why I end up automating everything I touch.
 
-I build complete web solutions from database to deployment, with a focus on scalable architecture and clean code. Whether it's a lightning-fast API in Rust or a modern SaaS application with React, I deliver production-ready systems.
+I am active here 'cause I really like to help other people like me 💙. I believe in:
 
-## 🛠️ Tech Stack
+```
+Better Open Source Projects -> Better Softwares Developers Can Build -> Easier Life For All Of Us
+```
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000&color=000000)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=00ADD8&color=00ADD8)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C&color=00599C)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C&color=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6&color=3178C6)
+### 📖 My life, short story
+And yeah, I need to make money, so I should work too.
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20&color=092E20)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688&color=009688)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000&color=000000)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt](https://img.shields.io/badge/NuxtJS-00DC82?style=for-the-badge&logo=nuxt&logoColor=FFFFFF)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC&color=38B2AC)
+Most of my work lives in FastAPI, Axum, Actix Web, and Fiber 🚀. When I need a frontend, I reach for Tanstack Start, Next.js and React 🎨.
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1&color=4169E1)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=005C84&color=005C84)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=47A248)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D&color=DC382D)
+For the last 3 years I've worked as a contract backend engineer for a company in Iran.
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624&color=FCC624)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white&labelColor=E44C30&color=E44C30)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFFFFF)
+I like the kind of problem that takes a few days to even understand properly. I don't like doing the same thing twice.
 
-### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E&color=F24E1E)
+### 🎯 Current Situation
+
+- Working as freelancer
+- Creating my portfolio website
+- Improving my English
+
+Also,
+I am open to remote roles with teams that feel the same way about good software ✨.
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+
+- Rust
+- Python
+- Golang
+- TypeScript
+- C
+
+### 🏗️ Frameworks
+
+- (Python) FastAPI
+- (Go) Fiber
+- (Rust) Axum
+- (Rust) Actix-Web
+- (Rust) PyO3
+- (TS) Next.js
+- (TS) Tanstack Start
+
+### ☁️ Infra
+
+- MongoDB
+- PostgreSQL
+- Docker
+- Redis
+- Nginx
+- Traefik
+
+## 📊 Charts
+
+<p align="center">
+  <img alt="chart" src="https://shieldcn.dev/chart/github/commits/awolverp.svg?theme=blue&amp;bg=transparent&amp;border=false&amp;logo=false&amp;title=A.Wolver.P+Commits" />
+</p>
