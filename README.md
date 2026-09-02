@@ -37,14 +37,11 @@ I am open to remote roles with teams that feel the same way about good software 
 
 - Rust
 - Python
-- Golang
 - TypeScript
-- C
 
 ### 🏗️ Frameworks
 
 - (Python) FastAPI
-- (Go) Fiber
 - (Rust) Axum
 - (Rust) Actix-Web
 - (Rust) PyO3
@@ -58,7 +55,6 @@ I am open to remote roles with teams that feel the same way about good software 
 - Docker
 - Redis
 - Nginx
-- Traefik
 
 ## 📊 Charts
 
