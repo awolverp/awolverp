@@ -25,7 +25,7 @@ I like the kind of problem that takes a few days to even understand properly. I 
 ### 🎯 Current Situation
 
 - Working as freelancer
-- Creating my portfolio website
+- Maintaining open source libraries
 - Improving my English
 
 Also,
