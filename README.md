@@ -16,7 +16,7 @@ Better Open Source Projects -> Better Softwares Developers Can Build -> Easier L
 ### 📖 My life, short story
 And yeah, I need to make money, so I should work too.
 
-Most of my work lives in FastAPI, Axum, Actix Web, and Fiber 🚀. When I need a frontend, I reach for Tanstack Start, Next.js and React 🎨.
+Most of my work lives in FastAPI, Axum, and Actix Web 🚀. When I need a frontend, I reach for Tanstack Start, Next.js and React 🎨.
 
 For the last 3 years I've worked as a contract backend engineer for a company in Iran.
 
