@@ -7,11 +7,9 @@ My name is Ali,
 
 I build backend systems in Python, Rust, and Go, and I get bored fast, which is probably why I end up automating everything I touch.
 
-I am active here 'cause I really like to help other people like me 💙. I believe in:
+I am active here 'cause I really like to help other people like me 💙.
 
-```
-Better Open Source Projects -> Better Softwares Developers Can Build -> Easier Life For All Of Us
-```
+The world is based on open source projects, _The better open source projects, The better softwares, The easier life for all of us._
 
 ### 📖 My life, short story
 And yeah, I need to make money, so I should work too.
@@ -24,8 +22,8 @@ I like the kind of problem that takes a few days to even understand properly. I 
 
 ### 🎯 Current Situation
 
-- Working as freelancer
-- Maintaining open source libraries
+- Working as a freelancer
+- Working on **RapidQuery**
 - Improving my English
 
 Also,
@@ -41,12 +39,12 @@ I am open to remote roles with teams that feel the same way about good software 
 
 ### 🏗️ Frameworks
 
-- (Python) FastAPI
-- (Rust) Axum
-- (Rust) Actix-Web
-- (Rust) PyO3
-- (TS) Next.js
-- (TS) Tanstack Start
+- FastAPI
+- Axum
+- Actix-Web
+- PyO3
+- Next.js
+- Tanstack Start
 
 ### ☁️ Infra
 
