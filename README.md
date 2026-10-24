@@ -5,7 +5,7 @@
 ## 👋 About me
 My name is Ali,
 
-I build backend systems in Python, Rust, and Go, and I get bored fast, which is probably why I end up automating everything I touch.
+I build backend systems in Python, Rust, and TypeScript, and I get bored fast, which is probably why I end up automating everything I touch.
 
 I am active here 'cause I really like to help other people like me 💙.
 
